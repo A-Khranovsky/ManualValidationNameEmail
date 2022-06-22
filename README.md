@@ -1,6 +1,6 @@
 ## Vocation
 Code will show how it is able to use PHP7's function filter_var(), regular expression to validate credentials on cyrillic first name, last name 
-and email type, show how can be used:
+and email type, will show how can be used:
  * regular expression in callback function,
  * filter_var() function with FILTER_VALIDATE_EMAIL filter,
  * functions file_get_contents(), file_put_contents() to read from file & write data to file,
