@@ -8,6 +8,4 @@ and email type, show how can be used:
  * ternary operator in outputing to browse. 
 
 ## Description
-Page takes credentials(first name, last name, email) from html-form, validates them, outputs text of error weather they were taken or inputs credantials in file.
-Each line in file matchs to this three users's credentials. Script watches that credantials are uniqual in file. Weather this three credentials are 
-consists in file it outputs error.
+Page takes credentials(first name, last name, email) from html-form, validates them, outputs text of errorif they were made or inputs credantials in file. Each line in file matches to this users's three  credentials. Script watches that credantials are uniqual in file. Weather this three credentials are consists in file, than script outputs error.
